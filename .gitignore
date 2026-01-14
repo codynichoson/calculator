@@ -1,3 +1,4 @@
-*.qmake.stash
+build/
 *.o
+moc*.cpp
 Makefile
