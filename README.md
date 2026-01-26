@@ -3,7 +3,7 @@
 ## Overview
 This app was designed to mimic the look and functionality of the iPhone calculator. The user can type in a mathematic expression using all standard operations and generate the solution.
 
-<img width="370" height="655" alt="image" src="https://github.com/user-attachments/assets/5ab4bbf2-f5ed-4980-95ae-24a38195a822" />
+<img width="370" height="655" alt="image" src="https://github.com/user-attachments/assets/16a00682-001d-4df3-b752-f9c51de89435" />
 
 ## Design and Architecture
 This application divides responsibilities between two layers:
